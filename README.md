@@ -1,6 +1,6 @@
 Hi 👋 , I’m Susham
 
-A Software Engineer, currently living in Austin, TX. I am passionate about building scalable applications and blog about my experiences. Currently, I am learning about GraphQL and working on my side projects.
+A FrontEnd Engineer and AWS Certified Solutions Architect Associate, currently living in Austin, TX. I am passionate about building scalable applications and blog about my experiences. Currently, I am learning about GraphQL and working on my side projects.
 
 
 
@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 [![Susham's github stats](https://github-readme-stats.vercel.app/api?username=susham)](https://github.com/susham/github-readme-stats)
+
+📫 You can reach out to me at
