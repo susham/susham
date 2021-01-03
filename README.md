@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Susham Yerabolu, currently a FrontEnd Engineer with focus on MERN stack. 
+
+
 
 <!--
 **susham/susham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
