@@ -11,7 +11,8 @@ My Tech Stack:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=2bbc8a&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=2bbc8a&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=2bbc8a&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudio&logoColor=2bbc8a&color=2bbc8a)
 
 
 
