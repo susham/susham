@@ -13,6 +13,11 @@ My Tech Stack:
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=2bbc8a&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=2bbc8a&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Library-GraphQL-informational?style=flat&logo=graphql&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo=Html5&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=CSS3&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Sass-informational?style=flat&logo=Saas&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Expressjs-informational?style=flat&logo=express&logoColor=2bbc8a&color=2bbc8a)
 
 
 
