@@ -11,8 +11,8 @@ My Tech Stack:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=2bbc8a&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=2bbc8a&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=2bbc8a&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=2bbc8a&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudio&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=2bbc8a&color=2bbc8a)
 
 
 
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 
 
-📫 You can reach out to me on [![Twitter](https://twitter.com/susham_y), or on [![LinkedIn](https://www.linkedin.com/in/sushamkumar/).
+📫 You can reach out to me on [Twitter](https://twitter.com/susham_y), or on [LinkedIn](https://www.linkedin.com/in/sushamkumar/).
