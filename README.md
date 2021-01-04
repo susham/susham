@@ -34,16 +34,4 @@ Here are some ideas to get you started:
 
 
 
-<!-- Actual text -->
-
-📫 You can reach out to me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/susham_y
-[2]: https://www.linkedin.com/in/sushamkumar/
+📫 You can reach out to me on [![Twitter](https://twitter.com/susham_y), or on [![LinkedIn](https://www.linkedin.com/in/sushamkumar/).
