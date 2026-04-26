@@ -18,6 +18,7 @@ My Tech Stack:
 ![](https://img.shields.io/badge/Language-CSS3-informational?style=flat&logo=CSS3&logoColor=2bbc8a&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Sass-informational?style=flat&logo=Saas&logoColor=2bbc8a&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Expressjs-informational?style=flat&logo=express&logoColor=2bbc8a&color=2bbc8a)
+![](https://img.shields.io/badge/Cursor-%23000000?style=flat&logo=Cursor&logoColor=white)
 
 
 
